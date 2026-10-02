@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+
+FILE="$1"
+MORSE="/usr/bin/morseALSA"
+MORSEARGS="-w 20 -F 25 -n25 -q -T"
+SHUF="/usr/bin/shuf"
+ECHO="/usr/bin/echo"
+
+if [[ ! -f "$FILE" ]]; then
+  echo "Error: File not found"
+  exit 1
+fi
+
+while true; do
+  echo -n 'Press SPACE to get a random line (or Ctrl+C to quit)...'
+
+  # Read a single keypress
+  IFS= read -r -n1 key
+
+  # Only proceed if it's a space
+  if [[ "$key" == " " ]]; then
+    $SHUF -n 1 "$FILE" | $MORSE $MORSEARGS
+  fi
+done
