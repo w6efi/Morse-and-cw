@@ -1,0 +1,13 @@
+Cut numbers
+Only used when the context makes it clear that the letters actually signify numbers.
+
+A – 1
+U – 2
+V – 3
+4 is sent normally
+E – 5
+6 is sent normally
+G – 7
+D – 8
+N – 9
+T – 0 (sometimes sent as a long dash)

@@ -1,0 +1,63 @@
+A few common abbreviations. They are not mandated but useful if you want
+to understand and be understood on the air.   Also, people will abbreviate
+things on the fly
+
+
+CQ - calling
+K - waiting for an answer from anyone
+KN - waiting for an answer from the person I'm already talking to
+DE - from (origin is probably French)
+
+cq cq cq de n4rsy n4rsy k    -- calling cq, anyone can answer
+n4rsy de w6efi w6efi  kn     -- w6efi answering, only want a response from n4rsy
+
+it's always "<other call> de <mycall>" 
+
+ES - and   (origins lost in the mists of time)
+FB  - fine business (dope, fire, awesome, super, copascetic, etc)
+
+AGN  - again, huh? 
+AGN?    - again? huh?  
+?       wut? huh?      
+
+[BK]  - break over to you, always see this in pota
+
+R   - roger  (got it)
+RR  - roger roger (oh oh oh, now I get it)
+QSL - got it
+
+GM, GA, GE  - good morning, good afternoon, good evening
+PSE  - please
+
+=  uhhhh or line ending [BT]
+
+BTU - back to you, (I use this in ragchews)
+NIL - nothing, nothing heard (like if I call someone, but don't get an answer)
+
+U - you
+UR - your
+UR RST  - your RST (signal report)
+
+TU  - thank you
+TNX  - thanks
+SRI - sorry, oops
+SRI QSB - I didn't get that because of the fading
+
+HOPE CUAGN  - hope to see you again, often at the end of a ragchew qso
+GL - good luck
+
+WX - weather, commonly in ragchews
+
+73 - best wishes and good bye
+72 - sometimes used by QRPers to mean best wishes and good bye
+
+Q-signs -- there are a bunch but I see a few very commonly
+
+QSB - fading. 
+QRM, QRN - RFI from people or nature
+QSL  - ackowledged
+QRT   - going off the air
+QRZ?  - who is calling me (often used by someone who has a pileup on them)
+
+
+
